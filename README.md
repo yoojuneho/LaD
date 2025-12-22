@@ -2,4 +2,4 @@
 Factoid Conflict Detection Framework & Low Intensity Factoid Conflict Benchmark Datasets
 
 ## LaD FrameWork
-<img alt="Framework" src="./images/Framework.png" width="100%" />
+<img alt="Framework" src="./Framework.png" width="100%" />
