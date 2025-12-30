@@ -1,0 +1,18 @@
+{
+  "model": "Qwen_Qwen3-32B",
+  "baseline": {
+    "overall": 0.7120689655172414,
+    "conflict": 0.503448275862069,
+    "nonconflict": 0.9206896551724137
+  },
+  "guided": {
+    "overall": 0.853448275862069,
+    "conflict": 0.7724137931034483,
+    "nonconflict": 0.9344827586206896
+  },
+  "improvement": {
+    "overall": 0.14137931034482754,
+    "conflict": 0.2689655172413793,
+    "nonconflict": 0.01379310344827589
+  }
+}
